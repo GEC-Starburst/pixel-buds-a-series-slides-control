@@ -3,6 +3,8 @@
 This simple script helps you to control your slides with your Pixel Buds A-Series!  
 From now on, you won't need other's help during your presentation!  
 
+*This repo is a part of the final project of Team 15 for GEC1506 Logical Thinking of Informatics, 2022 Spring, NTHU* 
+
 ## Usage
 - Tap Once: `Next Page` (Originally play/pause media)
 - Tap Twice: `Previous Page` (Originally next track)
